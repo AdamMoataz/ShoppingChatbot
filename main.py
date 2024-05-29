@@ -10,7 +10,7 @@ print("age: ", age)
 print("hobby: ", hobby)
 
 print("Welcome to our store")
-print("Chose the department you want too shop in")
+print("Chose the department  you want too shop in")
 departments = ["frozen", "precoked","preheated","snacks","fruits and vegetables"]
 for i in range(5):
     print(i+1,departments[i])
